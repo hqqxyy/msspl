@@ -30,6 +30,7 @@ to recover from the LRHS for any super resolution methods.
 Traing a MSSPL takes between five days and one week and only requires a single GPU. 
 Denoising an 1024*1024 image from an optimized MSSPL takes about 0.12 second for our x4 model on a Titan Xp.
 
+<img src="figures/net.png"> 
 
 ### Training 
 We will release our training code.
@@ -42,6 +43,8 @@ We will release our code, models and our results.
 
 ## BCR Dataset
 We will release the whole dataset as well as the compared results on our dataset.
+
+<img src="figures/bcr.png"> 
 
 ## Citation
 ```
