@@ -55,3 +55,9 @@ We will release the whole dataset as well as the compared results on our dataset
   booktitle={Graphic Interface},
 }
 ```
+
+## Acknowledgments
+The source models in figures are used under a Creative Commons License from kujaba, 
+darkst0ne, cczero, LukeLiptak, Christophe Seux, nickbrunner, samytichadou, MarcoD, Jay-Artist, 
+jgilhutton, Oldfrizt, Ndakasha, GyngaNynja, racingfoli, Kless and PepSu. 
+This project is supported by a gift from Intel. Thanks for their help.
