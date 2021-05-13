@@ -1,6 +1,6 @@
 # Fast Monte Carlo Rendering via Multi-Resolution Sampling
 
-### Paper | Data(Will release soon)
+### Paper | Data
 
 PyTorch implementation of fast Monte Carlo rendering via multi-resolution sampling.<br><br>
 Fast Monte Carlo Rendering via Multi-Resolution Sampling, <br>
