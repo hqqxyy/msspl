@@ -13,7 +13,7 @@ Fast Monte Carlo Rendering via Multi-Resolution Sampling, <br>
  
 in Graphic Interface 2021.
 
-<img src="figures/fig1-a.png"> <img src="figures/fig1-b.png">
+<img src="figures/fig1-a.png"> 
 
 ## Code, Models, Results
 Will release soon
