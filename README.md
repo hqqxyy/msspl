@@ -27,8 +27,8 @@ as a super resolution problem that generates a high resolution rendering from a 
 assisted with the HRLS rendering. The HRLS rendering provides critical high frequency details which are difficult 
 to recover from the LRHS for any super resolution methods. 
 
-Optimizing a MSSPL takes between five days and one week and only requires a single GPU. 
-Denoising an image from an optimized MSSPL takes about 1 second for a 0.12 second for our x4 model.
+Traing a MSSPL takes between five days and one week and only requires a single GPU. 
+Denoising an 1024*1024 image from an optimized MSSPL takes about 0.12 second for our x4 model on a Titan Xp.
 
 
 ### Training 
