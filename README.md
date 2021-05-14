@@ -28,7 +28,7 @@ assisted with the HRLS rendering. LRHS is less noisy while the more noisy HRLS c
 that are inherently difficult to recover from the low resolution image.
 
 Traing a MSSPL takes between five days and one week and only requires a single GPU. 
-Denoising an 1024*1024 image from an optimized MSSPL takes about 0.12 second for our x4 model on a Titan Xp.
+Denoising one 1024*1024 image from an optimized MSSPL takes about 0.12 second for our x4 model on a Titan Xp.
 
 <img src="figures/net.png"> 
 
