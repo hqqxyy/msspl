@@ -44,7 +44,7 @@ We will release our code, models and our results.
 ## BCR Dataset
 We collected a large scale Blender Cycles Ray-tracing (BCR) dataset, 
 which contains 2449 high-quality images rendered from 1463 models. 
-We render the images at a range of spp rates, including 1-8, 12, 32, 64, 250, 1000, and 4000 spp. 
+We render the images at a range of spp rates, including 1-8, 12, 16, 32, 64, 250, 1000, and 4000 spp. 
 All the images are rendered at the resolution of 1080p. 
 Each image contains not only the final rendered result but also the intermediate render layers, 
 including albedo, normal, diffuse, glossy, and so on. We provide an example of intermediate layers at [here](figures/layers.png).
