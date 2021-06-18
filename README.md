@@ -1,6 +1,8 @@
 # Fast Monte Carlo Rendering via Multi-Resolution Sampling
 
-### Paper | Data
+### Paper | Data | [Youtube](https://www.youtube.com/watch?v=u_LS7feS-hQ) 
+
+The data is currently reviewed by Intel. We will make it public as soon as possible.
 
 PyTorch implementation of fast Monte Carlo rendering via multi-resolution sampling.<br><br>
 Fast Monte Carlo Rendering via Multi-Resolution Sampling, <br>
