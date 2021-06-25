@@ -1,6 +1,6 @@
 # Fast Monte Carlo Rendering via Multi-Resolution Sampling
 
-### [Paper](https://openreview.net/pdf/930405ae6cd269c95004223b6871991972101ff6.pdf) | Data | [Youtube](https://www.youtube.com/watch?v=u_LS7feS-hQ) 
+### [Paper](https://arxiv.org/abs/2106.12802) | Data | [Youtube](https://www.youtube.com/watch?v=u_LS7feS-hQ) 
 
 The data is currently reviewed by Intel. We will make it public as soon as possible.
 
@@ -15,7 +15,7 @@ Fast Monte Carlo Rendering via Multi-Resolution Sampling, <br>
  
 in Graphic Interface 2021.
 
-<img src="figures/fig1-a.png"> 
+<img src="figures/fig1-a.png" href="https://arxiv.org/abs/2106.12802"> 
 
 
 ## What is a MSSPL?
