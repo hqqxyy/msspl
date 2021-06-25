@@ -15,7 +15,7 @@ Fast Monte Carlo Rendering via Multi-Resolution Sampling, <br>
  
 in Graphic Interface 2021.
 
-<img src="figures/fig1-a.png" href="https://arxiv.org/abs/2106.12802"> 
+<img src="figures/fig1-a.png"> 
 
 
 ## What is a MSSPL?
