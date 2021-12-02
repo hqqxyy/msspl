@@ -1,6 +1,6 @@
 # Fast Monte Carlo Rendering via Multi-Resolution Sampling
 
-### [Paper](https://arxiv.org/abs/2106.12802) | Data | [Youtube](https://www.youtube.com/watch?v=u_LS7feS-hQ) 
+### [Paper](https://arxiv.org/abs/2106.12802) | Data | [Youtube](https://www.youtube.com/watch?v=3eSUG0ihonQ) 
 
 The data is currently reviewed by Intel. We will make it public as soon as possible.
 
